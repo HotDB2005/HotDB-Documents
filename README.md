@@ -154,8 +154,6 @@ HotDB Server是一款实现数据容量和性能横向扩展的交易关系型�
 
 [名词解释功能使用手册](documents/10.分布式事务数据库HotDB%20Server-v2.5.6【名词解释】功能使用手册v1.0.pdf)
 
-[最新功能清单](documents/11.分布式事务数据库HotDB%20Server最新功能清单-20201118.xlsx)
-
 [参数说明列表](documents/12.HotDB%20Server&管理平台参数说明列表_2.5.6.xlsx)
 
 [集群环境要求说明](documents/13.分布式事务数据库HotDB%20Server-【集群环境要求说明】V1.0.xlsx)
