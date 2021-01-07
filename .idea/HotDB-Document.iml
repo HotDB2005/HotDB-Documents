@@ -5,5 +5,12 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Paradox/Stellaris: Stdlib" level="project" />
+    <orderEntry type="library" name="emoji" level="application" />
+    <orderEntry type="library" name="external-script" level="application" />
+    <orderEntry type="library" name="docsify-pagination" level="application" />
+    <orderEntry type="library" name="docsify-plugin-flexible-alerts" level="application" />
+    <orderEntry type="library" name="docsify-sidebar-collapse" level="application" />
+    <orderEntry type="library" name="docsify-pdf-embed" level="application" />
   </component>
 </module>

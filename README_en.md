@@ -2,8 +2,6 @@
 
 [中文](README.md) | [English](README_en.md)
 
-[中文文档](README.md) | [English Document](README_en.md)
-
 Reference document of HotDB Server, a distributed relational database.
 
 Related links:
@@ -133,9 +131,3 @@ Online view table structure modification records being implemented and completed
 * Massive Concurrency
 * Massive Data
 * Massive Users
-
-## Product Documents
-
-
-
-## History Articles
