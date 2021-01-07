@@ -1,5 +1,5 @@
 * 开始
-  * [简介](README.md)
+  * [简介](white-paper.md)
 <!--  * [最新功能列表](new-features.md)-->
 * 安装部署及升级
   * [安装部署](install-and-deploy.md)
