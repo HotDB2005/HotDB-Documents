@@ -1,8 +1,12 @@
 # HotDB-Documents
 
+[中文](README.md) | [English](README_en.md)
+
 [中文文档](README.md) | [English Document](README_en.md)
 
 Reference document of HotDB Server, a distributed relational database.
+
+Related links:
 
 [Official Website](https://www.hotdb.com)
 

@@ -1,4 +1,6 @@
-# HotDB-Documents
+# HotDB-Document
+
+[中文](README.md) | [English](README_en.md)
 
 [中文文档](README.md) | [English Document](README_en.md)
 

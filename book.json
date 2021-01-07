@@ -1,0 +1,13 @@
+{
+  "root": "book",
+  "title": "GitBook-Study",
+  "description": "GitBook Study by DK Breeze.",
+  "author": "DK Breeze",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "外部链接：Github": "https://github.com",
+      "外部链接：百度": "https://baidu.com"
+    }
+  }
+}
